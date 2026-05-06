@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" fill="none">
+  <rect width="640" height="480" rx="32" fill="#F4E8FF"/>
+  <circle cx="210" cy="180" r="100" fill="#D8B4FE" opacity="0.75"/>
+  <path d="M290 220c38 24 80 34 118 30 52-6 84-42 94-74" stroke="#7C3AED" stroke-width="18" stroke-linecap="round"/>
+  <path d="M160 280c46-46 120-46 166 0" stroke="#6D28D9" stroke-width="14" stroke-linecap="round"/>
+  <rect x="155" y="75" width="310" height="220" rx="34" fill="#F8EFFD"/>
+  <path d="M180 235c0-60 50-108 112-108s112 48 112 108" stroke="#8B5CF6" stroke-width="16" fill="#E9D5FF"/>
+  <path d="M260 145c16 0 24 12 24 28 0 16-8 28-24 28s-24-12-24-28c0-16 8-28 24-28z" fill="#6D28D9"/>
+  <path d="M320 145c16 0 24 12 24 28 0 16-8 28-24 28s-24-12-24-28c0-16 8-28 24-28z" fill="#6D28D9"/>
+  <path d="M230 270c12 24 36 36 50 36s38-12 50-36" stroke="#7C3AED" stroke-width="16" stroke-linecap="round"/>
+  <text x="50%" y="430" text-anchor="middle" fill="#6D28D9" font-family="Inter, Arial, sans-serif" font-size="46" font-weight="700">Glamour</text>
+</svg>

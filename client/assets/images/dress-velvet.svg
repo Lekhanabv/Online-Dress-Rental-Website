@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" fill="none">
+  <rect width="600" height="450" rx="30" fill="#FDF2F8"/>
+  <circle cx="300" cy="190" r="128" fill="#FBCFE8"/>
+  <path d="M220 158c22-34 60-52 96-52s74 18 96 52" stroke="#BE185D" stroke-width="18" stroke-linecap="round"/>
+  <path d="M190 210c22 46 66 70 110 70s88-24 110-70" stroke="#9D174D" stroke-width="20" stroke-linecap="round"/>
+  <path d="M190 210c30-28 74-40 110-40s80 12 110 40" stroke="#DB2777" stroke-width="16"/>
+  <text x="50%" y="410" text-anchor="middle" fill="#9D174D" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="700">Velvet Luxe</text>
+</svg>

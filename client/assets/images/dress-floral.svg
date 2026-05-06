@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" fill="none">
+  <rect width="600" height="450" rx="30" fill="#EFF6FF"/>
+  <path d="M150 280c26-78 78-128 146-132s122 40 146 132" fill="#DBEAFE"/>
+  <path d="M180 250c16-32 42-52 74-60 32-8 68-4 98 14 30 18 54 48 70 86" stroke="#3B82F6" stroke-width="16" fill="none"/>
+  <circle cx="300" cy="170" r="16" fill="#BFDBFE"/>
+  <circle cx="245" cy="200" r="12" fill="#60A5FA"/>
+  <circle cx="355" cy="200" r="12" fill="#60A5FA"/>
+  <path d="M260 310c30-20 68-22 98 0" stroke="#1D4ED8" stroke-width="18" stroke-linecap="round"/>
+  <text x="50%" y="410" text-anchor="middle" fill="#1D4ED8" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="700">Floral Fade</text>
+</svg>
