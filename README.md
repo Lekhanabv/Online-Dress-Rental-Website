@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dress Rental Project
 
 A full-stack dress rental application scaffold with a static client folder and a Node.js/Express backend.
@@ -39,3 +40,7 @@ A full-stack dress rental application scaffold with a static client folder and a
 - Use the `/api/admin/tables` route with an admin account to inspect database table names, and `/api/admin/tables/:tableName` to view up to 20 rows from a table.
 
 
+=======
+# Online-Dress-Rental-Website
+Online dress rental websites provide premium designer, bridal, and party wear on rent at a fraction of the retail price, offering options for weddings, pre-wedding shoots, and special events
+>>>>>>> efae90c268e3d0ffbe393b8f6ee13f5b8aa48e37
